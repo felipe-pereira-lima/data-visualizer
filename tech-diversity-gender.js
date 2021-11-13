@@ -105,10 +105,10 @@ function TechDiversityGender() {
 			// Draw male employees rectangle.
 			fill(this.maleColor);
 			rect(
-				this.layout.rightMargin,
+				this.layout.leftMargin + this.mapPercentToWidth(company.female),
 				lineY,
 				this.mapPercentToWidth(company.male),
-				lineHeight + this.layout.pad
+				lineHeight - this.layout.pad
 			);
 		}
 
