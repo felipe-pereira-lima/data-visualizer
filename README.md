@@ -40,7 +40,7 @@ each company.
    proportion using the parameters and methods defined in this
    object.
    - The ratio of female:male staff at Indiegogo is 50:50. Make sure
-     that this is correctly visualised on the plot.
+     that this is correctly visualised on the plot. - OK
 
 #### Pay gap 1997–2017
 
